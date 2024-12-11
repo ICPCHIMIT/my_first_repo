@@ -13,7 +13,7 @@ int main() {
     }
     return 0;
 
-/*
+
        int X;
     for (;;) { // Infinite loop
         cin >> X;
@@ -25,5 +25,5 @@ int main() {
         }
     }
     return 0;
-    */
+    
 }
