@@ -10,21 +10,16 @@ int main() {
     {
         cin >> a[i];
     }
-
+    
     sort(a,a+n);
-    bool status = true;
-    for (size_t i = 1; i < n; i++)
+
+    for (size_t i = 0; i < n; i++)
     {
-        if (a[i] == a[i -1])
-        {
-            status = false;
-            break;
-        }
+        
+        cout << a[i]  << " ";
         
     }
     
-    if(status) cout << "YES" << endl;
-    else cout << "NO" << endl;
 
     return 0;
 }
