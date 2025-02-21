@@ -32,7 +32,6 @@ Feel free to:
 ## Resources
 - [CPP Reference](https://en.cppreference.com/)
 - [Python Documentation](https://docs.python.org/)
-- [ICPC Library](https://github.com/your-username/icpc-library)
 
 ## Stay Connected
 Stay connected with us through our various channels:
